@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+*.log
+dist/
+build/
+.env
+.ipynb
+.gemini/
+.agent/
+.agents/
+_agent/
+_agents/
+.cortex/
+.anthropic/
+.cursor/
+.vscode/
